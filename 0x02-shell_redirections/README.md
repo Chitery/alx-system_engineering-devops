@@ -1,1 +1,1 @@
-BASH redirection
+bash redirction 

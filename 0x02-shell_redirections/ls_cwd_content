@@ -1,13 +1,21 @@
-total 44
-drwxr-xr-x 2 awz3us awz3us 4096 Oct 12 00:59 .
-drwxr-xr-x 6 awz3us awz3us 4096 Oct 12 00:28 ..
--rwxr--r-- 1 awz3us awz3us   32 Oct 12 00:31 0-hello_world
--rwxr--r-- 1 awz3us awz3us   25 Oct 12 00:33 1-confused_smiley
--rwxr--r-- 1 awz3us awz3us   30 Oct 12 00:38 2-hellofile
--rwxr--r-- 1 awz3us awz3us   42 Oct 12 00:40 3-twofiles
--rwxr--r-- 1 awz3us awz3us   31 Oct 12 00:47 4-lastlines
--rwxr--r-- 1 awz3us awz3us   30 Oct 12 00:46 5-firstlines
--rwxr--r-- 1 awz3us awz3us   36 Oct 12 00:49 6-third_line
--rwxr--r-- 1 awz3us awz3us   58 Oct 12 00:55 7-file
--rwxr--r-- 1 awz3us awz3us   37 Oct 12 00:59 8-cwd_state
--rw-r--r-- 1 awz3us awz3us    0 Oct 12 00:59 ls_cwd_content
+total 76
+drwxr-xr-x 2 awz3us awz3us 4096 Sep  6 00:37 .
+drwxr-xr-x 7 awz3us awz3us 4096 Oct 10 19:17 ..
+-rwxr--r-- 1 awz3us awz3us   32 Sep  5 22:27 0-hello_world
+-rwxr--r-- 1 awz3us awz3us   45 Sep  5 23:57 10-no_more_js
+-rwxr--r-- 1 awz3us awz3us   52 Sep  6 00:00 11-directories
+-rwxr--r-- 1 awz3us awz3us   32 Sep  6 00:18 12-newest_files
+-rwxr--r-- 1 awz3us awz3us   27 Sep  6 00:26 13-unique
+-rwxr--r-- 1 awz3us awz3us   36 Sep  6 00:31 14-findthatword
+-rwxr--r-- 1 awz3us awz3us   38 Sep  6 00:33 15-countthatword
+-rwxr--r-- 1 awz3us awz3us   41 Sep  6 00:37 16-whatsnext
+-rwxr--r-- 1 awz3us awz3us   25 Sep  6 00:20 1-confused_smiley
+-rwxr--r-- 1 awz3us awz3us   28 Sep  5 22:35 2-hellofile
+-rwxr--r-- 1 awz3us awz3us   39 Sep  5 22:44 3-twofiles
+-rwxr--r-- 1 awz3us awz3us   29 Sep  5 22:47 4-lastlines
+-rwxr--r-- 1 awz3us awz3us   28 Sep  5 22:55 5-firstlines
+-rwxr--r-- 1 awz3us awz3us   36 Sep  5 23:17 6-third_line
+-rwxr--r-- 1 awz3us awz3us   58 Sep  5 23:24 7-file
+-rwxr--r-- 1 awz3us awz3us   36 Sep  5 23:51 8-cwd_state
+-rwxr--r-- 1 awz3us awz3us   37 Sep  5 23:53 9-duplicate_last_line
+-rw-r--r-- 1 awz3us awz3us    0 Oct 12 00:58 ls_cwd_content
